@@ -77,3 +77,8 @@ ionic cordova plugin rm pluginName or pluginID # To remove installed plugin.
 ionic cordova platform add platformName # To add support for mentioned platform.
 ionic cordova platform rm platformName # To remove support for mentioned platform.
 ```
+
+# Importand links:
+
+1. [Ionic V3](https://ionicframework.com/docs/v3/)
+2. [Cordova plugins](https://cordova.apache.org/plugins/)

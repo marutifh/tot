@@ -14,6 +14,7 @@
 | native-run | `npm i -g native-run`      |
 | JDK  | version 11      |
 | cocoapods (macOS only)  | latest version      |
+| VSCode  | latest version      |
 
 
 # Environment variables
